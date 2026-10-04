@@ -1,0 +1,47 @@
+ProcShield Supervisor started.
+TestService started. PID: 831
+procshield Event: SERVICE_STARTED
+ProcShield device is not available.
+ProcShield Supervisor stopped.
+ProcShield Supervisor started.
+TestService started. PID: 855
+procshield Event: SERVICE_STARTED
+ProcShield device is not available.
+TestService terminated by signal: 11
+procshield Event: SERVICE_CRASHED
+ProcShield device is not available.
+Waiting 1 seconds before restart.
+TestService started. PID: 924
+procshield Event: SERVICE_STARTED
+ProcShield device is not available.
+procshield Event: SERVICE_RESTARTED
+ProcShield device is not available.
+ProcShield Supervisor stopped.
+ProcShield Supervisor started.
+TestService started. PID: 961
+procshield Event: SERVICE_STARTED
+ProcShield device is not available.
+ProcShield Supervisor stopped.
+ProcShield Supervisor started.
+TestService started. PID: 1085
+procshield Event: SERVICE_STARTED
+ProcShield device is not available.
+Heartbeat timeout. TestService appears hung.
+procshield Event: SERVICE_HUNG
+ProcShield device is not available.
+Terminating hung TestService.
+Waiting 1 seconds before restart.
+TestService started. PID: 1173
+procshield Event: SERVICE_STARTED
+ProcShield device is not available.
+procshield Event: SERVICE_RESTARTED
+ProcShield device is not available.
+ProcShield Supervisor stopped.
+ProcShield Supervisor started.
+TestService started. PID: 1495
+procshield Event: SERVICE_STARTED
+ProcShield device is not available.
+ProcShield Supervisor started.
+TestService started. PID: 1849
+procshield Event: SERVICE_STARTED
+ProcShield device is not available.
